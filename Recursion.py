@@ -18,3 +18,5 @@ class Recursion:
    
 print("Fibonacci", Recursion.fibonacci(6))     
 print("Factorial", Recursion.factorial(5))
+
+
